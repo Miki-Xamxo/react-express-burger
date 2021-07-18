@@ -1,0 +1,677 @@
+{
+  "bk_food": [
+    {
+      "id": 1,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/aab2539f2c871735ae959b0509c4d94d.webp",
+      "name": "НАЧОС КИНГ КИНГ КОМБО M",
+      "category": 1,
+      "price": 389
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/2029b8cc86849f2e823805c70e9be9c4.webp",
+      "name": "НАЧОС ЧИКЕН КИНГ КОМБО M",
+      "category": 1,
+      "price": 389
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/c2c4a6be991b102bf396b3a8229fec5f.webp",
+      "name": "ВОППЕР КИНГ КОМБО M",
+      "category": 1,
+      "price": 349
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/e60337cda9b9df33d6699fdd7262003f.webp",
+      "name": "ВОППЕР РОЛЛ КИНГ КОМБО M",
+      "category": 1,
+      "price": 349
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/11a63c693a2f5156443d8d9d99dd586d.webp",
+      "name": "ЧИКЕН КИНГ КИНГ КОМБО M",
+      "category": 1,
+      "price": 309
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/ab8a28074c9d20469abe8b04f8b75d42.webp",
+      "name": "Биг Кинг Сальса Кинг Комбо M",
+      "category": 1,
+      "price": 349
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/caa123948fa23044b86a01d42be0c371.webp",
+      "name": "Кинг креветки 15 шт. Кинг Комбо M",
+      "category": 1,
+      "price": 629
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/9eae55907c1a8f88c1fd0973b0bacdbe.webp",
+      "name": "Стейкхаус Кинг Комбо M",
+      "category": 1,
+      "price": 429
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/493e69809689eda35a68b26083d2887d.webp",
+      "name": "Сырный Джо Кинг Комбо M",
+      "category": 1,
+      "price": 389
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/1a14ed7bf7add0ce125c9e095ddbaf08.webp",
+      "name": "Беконайзер Кинг Комбо M",
+      "category": 1,
+      "price": 429
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/ea142c6b74ad01083026aca1da199897.webp",
+      "name": "Начос Кинг XL Кинг Комбо M",
+      "category": 1,
+      "price": 499
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/92e7801ce1b31904c5919edaf5de20ce.webp",
+      "name": "Биг Кинг экстра Кинг Комбо M",
+      "category": 1,
+      "price": 309
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/1d23947e9f9365bf986073ad618b17c2.webp",
+      "name": "Двойной Чизбургер Кинг Комбо M",
+      "category": 1,
+      "price": 269
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/3d93ef3cef60ca56762c31bf9971a3f5.webp",
+      "name": "Шримп Ролл Кинг Комбо M",
+      "category": 1,
+      "price": 379
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/2760a5ce8aaa05d1049c3526490b69bf.webp",
+      "name": "Чизбургер Кинг Комбо M",
+      "category": 1,
+      "price": 199
+    },
+    {
+      "id": 16,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/d2943b66fb8f0fde2a0bde9c33906285.webp",
+      "name": "Воппер с сыром Кинг Комбо M",
+      "category": 1,
+      "price": 379
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/40778a2c9f9e90379ad68a83a2b8d8b9.webp",
+      "name": "Лонг Чикен Кинг Комбо M",
+      "category": 1,
+      "price": 339
+    },
+    {
+      "id": 18,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/ae76b57d27b912a9dbc75cb7fd623d60.webp",
+      "name": "Биг Кинг XXL Кинг Комбо M",
+      "category": 1,
+      "price": 469
+    },
+    {
+      "id": 19,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/7a42509713a3f56f8f8aee8d2623572d.webp",
+      "name": "Чикенбургер Кинг Комбо M",
+      "category": 1,
+      "price": 199
+    },
+    {
+      "id": 20,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/ae226c060b3892c9775f0832c1162341.webp",
+      "name": "Кинг Наггетс Бол Кинг Комбо M",
+      "category": 1,
+      "price": 309
+    },
+    {
+      "id": 21,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/b7b9f65331ecf59e3235646bdb8250f1.webp",
+      "name": "Начос Чикен Ролл Кинг Комбо M",
+      "category": 1,
+      "price": 339
+    },
+    {
+      "id": 22,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/1c3a98a16e63c8bf99ab617c57c3ef4c.webp",
+      "name": "Цезарь ролл со стрипсами Кинг Комбо M",
+      "category": 1,
+      "price": 349
+    },
+    {
+      "id": 23,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/591a6448e4f5ea5b499748ce18347176.webp",
+      "name": "Лонг Чизбургер Кинг Комбо M",
+      "category": 1,
+      "price": 339
+    },
+    {
+      "id": 24,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/bdc98a3e941fc5ffa3840ba9276cb189.webp",
+      "name": "Сырная Мэри Кинг Комбо M",
+      "category": 1,
+      "price": 379
+    },
+    {
+      "id": 25,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/4f6cd279f613c017f459e103f69ecf7c.webp",
+      "name": "Кинг Бокс 5в1 Воппер Ролл",
+      "category": 2,
+      "price": 300
+    },
+    {
+      "id": 26,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/58c535cbd5347b36ee4c8f940f0cdbfb.webp",
+      "name": "Кинг Бокс 5в1 Шримп Ролл",
+      "category": 2,
+      "price": 399
+    },
+    {
+      "id": 27,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/e95b7a3085decf33cb046a9a2d602e51.webp",
+      "name": "Кинг Бокс 5в1 Цезарь Ролл",
+      "category": 2,
+      "price": 300
+    },
+    {
+      "id": 28,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/38875bc730415653aee0ae8c85fc7705.webp",
+      "name": "Кинг Бокс 5в1 Воппер",
+      "category": 2,
+      "price": 300
+    },
+    {
+      "id": 29,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/6fb44ef0981b033ac6109788b50d9467.webp",
+      "name": "Кинг Бокс 5в1 Биг Кинг",
+      "category": 2,
+      "price": 300
+    },
+    {
+      "id": 30,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/f95c3deb3e2647880943d0e0a52eebad.webp",
+      "name": "НАЧОС КИНГ XL",
+      "category": 0,
+      "price": 329
+    },
+ 
+    {
+      "id": 32,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/c807e92c7fadc6a18f07e01e3f582234.webp",
+      "name": "БИГ КИНГ САЛЬСА",
+      "category": 0,
+      "price": 194
+    },
+    {
+      "id": 33,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/026c1256354c0a354f5440043b8aa84b.webp",
+      "name": "Воппер с сыром",
+      "category": 3,
+      "price": 229
+    },
+    {
+      "id": 34,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/a584f1ceafc20d25c09e095164dea769.webp",
+      "name": "Сырный Джо",
+      "category": 3,
+      "price": 219
+    },
+    {
+      "id": 35,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/cd20296f04dd73a5141aa09d8ffc9787.webp",
+      "name": "Стейкхаус",
+      "category": 3,
+      "price": 259
+    },
+    {
+      "id": 36,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/2400898c7d08cccbb5c407851d65e937.webp",
+      "name": "Беконайзер",
+      "category": 3,
+      "price": 309
+    },
+    {
+      "id": 37,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/ab237d5959c0d8b3bb962f6c97cedb5a.webp",
+      "name": "Тройной Воппер",
+      "category": 3,
+      "price": 369
+    },
+    {
+      "id": 38,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/7baabffde14bc525758c09bfdb4c7ecc.webp",
+      "name": "Двойной воппер с сыром",
+      "category": 3,
+      "price": 309
+    },
+    {
+      "id": 39,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/d23346b39930ad0b4df7828cb0fc8b3c.webp",
+      "name": "Двойной Воппер",
+      "category": 3,
+      "price": 289
+    },
+    {
+      "id": 40,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/78c1b86c3cd87825d08ce791c9e43eaa.webp",
+      "name": "Воппер Джуниор",
+      "category": 3,
+      "price": 129
+    },
+    {
+      "id": 41,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/38c29a474e697bb0b9f87465d5eb96ba.webp",
+      "name": "Грильбургер",
+      "category": 3,
+      "price": 54
+    },
+    {
+      "id": 42,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/18852e59d8eefeca569d4282e3307dc5.webp",
+      "name": "Биг Кинг XXL",
+      "category": 3,
+      "price": 299
+    },
+    {
+      "id": 43,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/cfec1fc9e3642f670d6e9a035eb9a95d.webp",
+      "name": "Биг Кинг",
+      "category": 3,
+      "price": 144
+    },
+    {
+      "id": 44,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/8a4a715dfda393db60817704e245c79b.webp",
+      "name": "Гамбургер",
+      "category": 3,
+      "price": 52
+    },
+    {
+      "id": 45,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/0c2c355e659184e0aa0a143ece1855a9.webp",
+      "name": "Биг Кинг Джуниор",
+      "category": 3,
+      "price": 99
+    },
+    {
+      "id": 46,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/dc47f6d0fe78b53c5f3f854d0db543a2.webp",
+      "name": "Воппер Джуниор Сыр-Бекон",
+      "category": 3,
+      "price": 149
+    },
+    {
+      "id": 47,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/b1c887da18b0f32e52c47c71040a71af.webp",
+      "name": "Чизбургер",
+      "category": 3,
+      "price": 54
+    },
+    {
+      "id": 48,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/b4997a235f23f53691598198763e560a.webp",
+      "name": "Двойной чизбургер",
+      "category": 3,
+      "price": 109
+    },
+    {
+      "id": 49,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/7c7b0bbb1af1c017b55afee2b13c6888.webp",
+      "name": "Лонг Чизбургер",
+      "category": 3,
+      "price": 184
+    },
+    {
+      "id": 50,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/32c43a0b81246d3469b9c9e12e06db80.webp",
+      "name": "Воппер",
+      "category": 3,
+      "price": 189
+    },
+    {
+      "id": 51,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/8558fc53486914c3bd1adeedc26da85f.webp",
+      "name": "НАЧОС ЧИКЕН",
+      "category": 0,
+      "price": 239
+    },
+    {
+      "id": 52,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/8ef47102331d33496fcd9fb3efcc2072.webp",
+      "name": "Чикен Кинг",
+      "category": 4,
+      "price": 144
+    },
+    {
+      "id": 53,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/2113b60dbb545d393bc86ced8808b974.webp",
+      "name": "Цезарь Кинг",
+      "category": 4,
+      "price": 99
+    },
+    {
+      "id": 54,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/bce1fb745d10f57c3cae377b6c21c81f.webp",
+      "name": "Сырная Мэри",
+      "category": 4,
+      "price": 209
+    },
+    {
+      "id": 55,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/3970a159b7f8e9d05f89c9707666faad.webp",
+      "name": "Гриль чикен барбекю",
+      "category": 4,
+      "price": 239
+    },
+    {
+      "id": 56,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/64984a5da08b1df2d59f0e1a1c23ea55.webp",
+      "name": "Лонг чикен",
+      "category": 4,
+      "price": 184
+    },
+    {
+      "id": 57,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/74a60b2fb7536b20c10a4cdf1828b67b.webp",
+      "name": "Чикенбургер Классик",
+      "category": 4,
+      "price": 49
+    },
+    {
+      "id": 58,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/7eb3b71f6e25435d37493d9f346d71d3.webp",
+      "name": "Стрипс Кинг",
+      "category": 4,
+      "price": 99
+    },
+    {
+      "id": 59,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/6d18be7e306304e40e74afcad4e710d7.webp",
+      "name": "НАЧОС ШРИМП",
+      "category": 0,
+      "price": 269
+    },
+    {
+      "id": 60,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/73b9cbc2dc8820e230d746fac0e62653.webp",
+      "name": "Шримп Кинг",
+      "category": 5,
+      "price": 229
+    },
+    {
+      "id": 61,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/15618c2756858ef75ed1254dc4ba70ff.webp",
+      "name": "Кинг Букет Креветки XXL",
+      "category": 5,
+      "price": 1099
+    },
+    {
+      "id": 62,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/2f5c7f43d6b344076fdd0f4693b1833b.webp",
+      "name": "Кинг Букет «Креветки»",
+      "category": 5,
+      "price": 499
+    },
+    {
+      "id": 63,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/8af9ddce3bcefb90b20f5d80f865076a.webp",
+      "name": "Шримп Ролл Джуниор",
+      "category": 5,
+      "price": 99
+    },
+    {
+      "id": 64,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/a38596bd5152781b01e8e91f3baba4f6.webp",
+      "name": "Шримп Ролл",
+      "category": 5,
+      "price": 209
+    },
+    {
+      "id": 65,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/abe08c775f3b6a5ae3438caa67999104.webp",
+      "name": "Шримп Воппер",
+      "category": 5,
+      "price": 284
+    },
+    {
+      "id": 66,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/eae7861c36ede4601e89804d3f07d884.webp",
+      "name": "Начос Чикен Ролл",
+      "category": 0,
+      "price": 179
+    },
+    {
+      "id": 67,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/36b84680f3138d628d8665bbbfc8db59.webp",
+      "name": "Воппер Ролл",
+      "category": 6,
+      "price": 189
+    },
+    {
+      "id": 68,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/7a2adb0496a8f53b00624bad51c47b07.webp",
+      "name": "Цезарь ролл со стрипсами",
+      "category": 6,
+      "price": 189
+    },
+    {
+      "id": 69,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/a38596bd5152781b01e8e91f3baba4f6.webp",
+      "name": "Шримп Ролл",
+      "category": 6,
+      "price": 209
+    },
+    {
+      "id": 70,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/39a48f92a966d59def156f6fa0fefa2d.webp",
+      "name": "Кингер Гриль",
+      "category": 6,
+      "price": 54
+    },
+    {
+      "id": 71,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/790c5c68ffc73e3b809ff61d7d61005a.webp",
+      "name": "Кинг Фри бол",
+      "category": 7,
+      "price": 109
+    },
+    {
+      "id": 72,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/df52cf0b24601193039cffb867aa17d0.webp",
+      "name": "Кинг Фри (станд.)",
+      "category": 7,
+      "price": 89
+    },
+    {
+      "id": 73,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/04bfd95bb197ee1be4b26e2d1c4889e4.webp",
+      "name": "Кинг Фри (мал.)",
+      "category": 7,
+      "price": 79
+    },
+    {
+      "id": 74,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/ca3e277f9d85a1c0fa333b90f79dc549.webp",
+      "name": "Кинг Букет «Стрипсы Микс»",
+      "category": 0,
+      "price": 449
+    },
+    {
+      "id": 75,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/23a95c1f16771dacfe701b67b97a7918.webp",
+      "name": "Кинг Букет «Стрипсы XL»",
+      "category": 0,
+      "price": 549
+    },
+    {
+      "id": 76,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/010ee2d6988689b5320206e76beefa8e.webp",
+      "name": "King Go Стрипсы",
+      "category": 0,
+      "price": 149
+    },
+    {
+      "id": 77,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/80ef589688ba7d603aea5ce467ccd834.webp",
+      "name": "Кинг Букет 'Крылышки XXL'",
+      "category": 8,
+      "price": 559
+    },
+    {
+      "id": 78,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/a4ec07c84a54b731b770f8e80bdc6025.webp",
+      "name": "Кинг Букет 'Большой микс'",
+      "category": 8,
+      "price": 419
+    },
+    {
+      "id": 79,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/29db24543648ef0fa75979a2e9aa25c7.webp",
+      "name": "Кинг Букет 'Снек-микс'",
+      "category": 8,
+      "price": 419
+    },
+    {
+      "id": 80,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/029f5892275183ef947cefba1b8985bf.webp",
+      "name": "Сыр.Медальоны 3шт",
+      "category": 0,
+      "price": 44
+    },
+    {
+      "id": 81,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/7663fb88fbcab52a59b0855470cc00ce.webp",
+      "name": "Сыр.Медальоны 5шт",
+      "category": 0,
+      "price": 69
+    },
+    {
+      "id": 82,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/907cf78e1da5640d4327c4f1302fe540.webp",
+      "name": "Сыр.Медальоны 7шт",
+      "category": 0,
+      "price": 89
+    },
+    {
+      "id": 83,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/96e23625f9dfb4f3898132dfc9dbff0b.webp",
+      "name": "Пепси Кола стандарт 0,8л безлимит",
+      "category": 9,
+      "price": 119
+    },
+    {
+      "id": 84,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/ab05d3ca62c92d9defcf5cfa96212d44.webp",
+      "name": "Пепси Кола большой 1л безлимит",
+      "category": 9,
+      "price": 129
+    },
+    {
+      "id": 85,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/a2b7b17a0d0806900b86dcb23b950e1f.webp",
+      "name": "Пепси Кола малый 0.5л безлимит",
+      "category": 9,
+      "price": 99
+    },
+    {
+      "id": 86,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/b54a269d22595e30b753c01ec923abaa.webp",
+      "name": "Севен Ап стандарт 0,8л безлимит",
+      "category": 9,
+      "price": 119
+    },
+    {
+      "id": 87,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/332bf84b17f55b4a19b47323c519a764.webp",
+      "name": "Севен Ап большой 1л безлимит",
+      "category": 9,
+      "price": 129
+    },
+    {
+      "id": 88,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/4aa296fd6628220154e8826405687f6f.webp",
+      "name": "Севен Ап малый 0.5л безлимит",
+      "category": 9,
+      "price": 99
+    },
+    {
+      "id": 89,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/4b8dd48400497a232394e467273ac7be.webp",
+      "name": "Липтон Грин малый 0.5л безлимит",
+      "category": 9,
+      "price": 99
+    },
+    {
+      "id": 90,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/d0092d0efb262f5f27d84e96d62e8a43.webp",
+      "name": "Липтон Грин стандарт 0,8л безлимит",
+      "category": 9,
+      "price": 119
+    },
+    {
+      "id": 91,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/b54b0a21a22eb260e4f7daf0dbe33131.webp",
+      "name": "Липтон Грин большой 1л безлимит",
+      "category": 9,
+      "price": 129
+    },
+    {
+      "id": 92,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/c7d85ae2ae3290cacde49baabe9c9a4c.webp",
+      "name": "Липтон Лимон малый 0.5л безлимит",
+      "category": 9,
+      "price": 99
+    },
+    {
+      "id": 93,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/8a4761084db34f17bd1043d70aa6c181.webp",
+      "name": "Липтон Лимон стандарт 0,8л безлимит",
+      "category": 9,
+      "price": 119
+    },
+    {
+      "id": 94,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/e84bee25aa2956ca0a7f66b96619ec30.webp",
+      "name": "Липтон Лимон большой 1л безлимит",
+      "category": 9,
+      "price": 129
+    },
+    {
+      "id": 95,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/4645284fa8c8d8cf46447eac29e5865f.webp",
+      "name": "Пепси Черри малый 0.5л безлимит",
+      "category": 9,
+      "price": 99
+    },
+    {
+      "id": 96,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/5ba44697ff0e6db69c5320021ba1b849.webp",
+      "name": "Пепси Черри большой 1л безлимит",
+      "category": 9,
+      "price": 129
+    },
+    {
+      "id": 97,
+      "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/ae484caa18c700334706d9c90b63c7b7.webp",
+      "name": "Пепси Черри стандарт 0,8л безлимит",
+      "category": 9,
+      "price": 119
+    }
+  ]
+}
